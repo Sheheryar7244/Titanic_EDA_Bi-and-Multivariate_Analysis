@@ -46,12 +46,7 @@ The analysis includes univariate, bivariate, and multivariate exploration using 
 - 📋 Pivot Tables
 ---
 Graphs & ouputs
-        	female	  male
-pclass		
-1	       34.611765	41.281386
-2	       28.722973	30.740707
-3	       21.750000	26.507589
-
+<img width="1075" height="251" alt="image" src="https://github.com/user-attachments/assets/38802485-1c19-470c-b17d-f288358f0ab4" />
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/269fec0c-435b-48dc-a24d-c312378af103" />
 <img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/7f057a76-c760-416b-a4a9-83e88a7d44b1" />
 <img width="543" height="432" alt="image" src="https://github.com/user-attachments/assets/3f33b236-a1cf-49fd-a7fc-b4b60a11262a" />
